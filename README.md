@@ -13,4 +13,5 @@ This resume generator helps you to create a better and cool resume in some easy 
   <li>Fork the repository</li>
   <li>Clone the repository on your system</li>
   <li>And start working on it ☺️</li>
+  <li>All the Best</li>
 </ol>
