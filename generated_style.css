@@ -13,6 +13,7 @@
 
 .name {
     margin: 1.4rem;
+    padding: 2.3rem;
 }
 
 .email{
@@ -28,13 +29,5 @@
 }
 
 .exp{
-    margin: 1.4rem;
-}
-
-.skill{
-    margin: 1.5rem;
-}
-
-.language{
     margin: 1.4rem;
 }
