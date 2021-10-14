@@ -13,6 +13,11 @@
   <li>Fork the repository</li>
   <li>Click on Star of repostiory</li>
   <li>Clone the repository on your system</li>
+
+  <li>And start working on it ☺️</li>
+  <li>All the Best</li>
+</ol>
+
   <li> Now follow some given step for beginners</li>
 
 - Open Git Bash type command
@@ -26,3 +31,4 @@
 
   <li>And start working on it ENJOY!!! ☺️ </li>
 </ol>
+
